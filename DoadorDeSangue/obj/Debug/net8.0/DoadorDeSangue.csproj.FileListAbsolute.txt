@@ -1,0 +1,14 @@
+C:\Users\Maria\Downloads\DoadorDeSangue\bin\Debug\net8.0\DoadorDeSangue.exe
+C:\Users\Maria\Downloads\DoadorDeSangue\bin\Debug\net8.0\DoadorDeSangue.deps.json
+C:\Users\Maria\Downloads\DoadorDeSangue\bin\Debug\net8.0\DoadorDeSangue.runtimeconfig.json
+C:\Users\Maria\Downloads\DoadorDeSangue\bin\Debug\net8.0\DoadorDeSangue.dll
+C:\Users\Maria\Downloads\DoadorDeSangue\bin\Debug\net8.0\DoadorDeSangue.pdb
+C:\Users\Maria\Downloads\DoadorDeSangue\obj\Debug\net8.0\DoadorDeSangue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Downloads\DoadorDeSangue\obj\Debug\net8.0\DoadorDeSangue.AssemblyInfoInputs.cache
+C:\Users\Maria\Downloads\DoadorDeSangue\obj\Debug\net8.0\DoadorDeSangue.AssemblyInfo.cs
+C:\Users\Maria\Downloads\DoadorDeSangue\obj\Debug\net8.0\DoadorDeSangue.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\DoadorDeSangue\obj\Debug\net8.0\DoadorDeSangue.dll
+C:\Users\Maria\Downloads\DoadorDeSangue\obj\Debug\net8.0\refint\DoadorDeSangue.dll
+C:\Users\Maria\Downloads\DoadorDeSangue\obj\Debug\net8.0\DoadorDeSangue.pdb
+C:\Users\Maria\Downloads\DoadorDeSangue\obj\Debug\net8.0\DoadorDeSangue.genruntimeconfig.cache
+C:\Users\Maria\Downloads\DoadorDeSangue\obj\Debug\net8.0\ref\DoadorDeSangue.dll
